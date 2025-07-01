@@ -1,7 +1,7 @@
 # PXE INTERNSHIP
 # Simulation and Design in RF Systems, RADAR Technology, and Antenna Arrays
 
-This project presents a comprehensive overview of simulation and design work across multiple domains including RF systems, RADAR technology, microstrip patch antennas, charge amplifiers, and sensor applications, especially oriented towards defense use-cases.
+This project presents a comprehensive overview of simulation and design work across multiple domains including RF systems, RADAR technology and microstrip patch antennas especially oriented towards defense use-cases.
 
 ---
 
